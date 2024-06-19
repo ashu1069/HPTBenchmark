@@ -1,42 +1,24 @@
 ---
 title: Home
-layout: home
+layout: default
 ---
 
-# Welcome to Our Documentation Site
+# Hierarchical Prompting Taxonomy: A Universal Evaluation Framework for Large Language Models 
 
-This site uses the [Just the Docs] theme for a clean and customizable documentation experience. It's easy to deploy on [GitHub Pages].
 
-Explore our guides, tutorials, and API references.
-
-## Key Features
-
-- **Gem-based Theme**: Easy updates with the `just-the-docs` gem.
-- **GitHub Pages Integration**: Build and publish with [GitHub Actions].
-- **Customizable**: Adjust the theme, add plugins, and modify the structure.
-
-## Getting Started
-
-1. Click "[Use this template]" to create a new GitHub repository.
-2. In **Settings > Pages > Build and deployment > Source**, select **GitHub Actions**.
-
-For detailed instructions, see the [template README].
-
-## Documentation
-
-- [Introduction](docs/introduction)
-- [Getting Started](docs/getting-started)
-- [Configuration](docs/configuration)
-- [Advanced Topics](docs/advanced-topics)
-
-## Community and Support
-
-Join our [Community Forum](https://community.example.com) and follow us on [Twitter](https://twitter.com/example).
+## Contact
+Feel free to reach out to me via [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com).
 
 ---
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[GitHub Actions]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[Use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+### Additional Information
+For more details on my work and interests, you can explore the sections below:
+
+- [Research](research.md)
+- [Projects](projects.md)
+- [Blog](blog.md)
+- [Resume](resume.pdf)
+
+---
+
+Thank you for visiting my homepage!
