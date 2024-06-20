@@ -3,22 +3,11 @@ title: Home
 layout: default
 ---
 
-# Hierarchical Prompting Taxonomy: A Universal Evaluation Framework for Large Language Models 
+# Hierarchical Prompting Taxonomy: A Universal Evaluation Framework for Large Language Models
 
+Welcome to our evaluation platform! 
 
-## Contact
-Feel free to reach out to me via [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com).
+This platform provides comprehensive evaluation scores for various datasets using both manual and adaptive frameworks. Our goal is to provide an accessible and transparent evaluation system for researchers and practitioners.
 
----
+Explore our documentation to learn more about our evaluation methods and visit the leaderboard to see the latest scores.
 
-### Additional Information
-For more details on my work and interests, you can explore the sections below:
-
-- [Research](research.md)
-- [Projects](projects.md)
-- [Blog](blog.md)
-- [Resume](resume.pdf)
-
----
-
-Thank you for visiting my homepage!
