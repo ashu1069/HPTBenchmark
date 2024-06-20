@@ -11,3 +11,13 @@ aux_links:
 
 plugins:
   - jekyll-default-layout
+
+navigation:
+  - title: Home
+    url: https://ashu1069.github.io/HPTBenchmark
+
+  - title: Documentation
+    url: https://ashu1069.github.io/HPTBenchmark/documentation/
+
+  - title: Leaderboard
+    url: https://ashu1069.github.io/HPTBenchmark/leaderboard/

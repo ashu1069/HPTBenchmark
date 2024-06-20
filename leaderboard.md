@@ -1,3 +1,8 @@
+---
+title: Leaderboard
+layout: default
+---
+
 # Leaderboard
 
 ## Evaluation Scores
